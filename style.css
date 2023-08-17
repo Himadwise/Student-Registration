@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.alert-success {
+  background-color: lightgreen;
+}
+.alert-warning {
+  background-color: lightcoral;
+}
+.alert-success,
+.alert-warning {
+  color: white;
+  padding: 8px;
+}
